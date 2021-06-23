@@ -1,0 +1,10 @@
+Only once to configure git:
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+Register changes to repository
+git add <nazwa-pliku>
+git commit -m "komentarz"
+
+Push your version to the server
+git push
